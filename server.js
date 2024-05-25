@@ -10,3 +10,4 @@ app.get("/calinterest",(req,res)=>{
     totalInterest:ans;
   }}
 })
+app.listen(3000)
